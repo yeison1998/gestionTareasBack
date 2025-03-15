@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yeiso\\Desktop\\Prueba tecnica\\gestionTareasBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACC6450-FB0E-4E3E-8F23-2B765F38B531}|Business\\Business.csproj|c:\\users\\yeiso\\desktop\\prueba tecnica\\gestiontareasback\\business\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACC6450-FB0E-4E3E-8F23-2B765F38B531}|Business\\Business.csproj|solutionrelative:business\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\yeiso\\Desktop\\Prueba tecnica\\gestionTareasBack\\Business\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\yeiso\\Desktop\\Prueba tecnica\\gestionTareasBack\\Business\\Services\\TaskService.cs",
+              "RelativeToolTip": "Business\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:50:12.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
