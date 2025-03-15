@@ -29,16 +29,6 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Azure": {
-      "commandName": "Project",
-      "dotnetRunMessages": true,
-      "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "https://gestiontareasapi-g2dvbubvcngsg8fa.canadacentral-01.azurewebsites.net",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Production"
-      }
-    },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
